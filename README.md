@@ -3,7 +3,7 @@
 This is my first personal freelance portfolio website. It is built using Html, Css and Javascript. It features all my projects in design, developemnt and illustrations category.
 
 ### Web url
-- https://personal-projects-psi.vercel.app/
+- [portfolio-website-tau-ruby.vercel.app](https://portfolio-website-tau-ruby.vercel.app/)
 ### Installation
 1. **Clone the repo:** ` git clone https://github.com/Anusree6154s/personal-projects/tree/main/portfolio-website`
 2. **Open Index.html on browser:** Right click on index.html and open in browser
